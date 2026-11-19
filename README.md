@@ -15,3 +15,8 @@ This repository documents my journey of learning Git and GitHub.
 ## My Goal
 
 To develop practical software development skills and build a collection of well-documented projects.
+## Current Focus
+
+- Practising Git and GitHub
+- Learning data structures and algorithms
+- Building practical software projects
